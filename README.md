@@ -1,4 +1,4 @@
-# AnimeDex · Catálogo Dinâmico de Animes
+# KytizDex · Catálogo Dinâmico de Animes
 
 Catálogo de animes que consome uma **API pública** para buscar, filtrar e exibir títulos em tempo real, com modal de detalhes, tudo sem recarregar a página. Inspirado na interface do MyAnimeList e da Pokédex.org.
 
