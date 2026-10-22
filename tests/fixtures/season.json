@@ -1,0 +1,608 @@
+{
+ "data": [
+  {
+   "id": "45666",
+   "type": "anime",
+   "links": {
+    "self": "https://kitsu.app/api/edge/anime/45666"
+   },
+   "attributes": {
+    "createdAt": "2021-12-27T07:56:43.559Z",
+    "updatedAt": "2026-10-22T00:00:36.915Z",
+    "slug": "mahoutsukai-no-yoru",
+    "synopsis": "Aoko Aozaki, an ordinary high school girl, is actually a Magician who lives in the modern world...though she is still only an apprentice. As she spends her days living alongside her housemate, Alice Kuonji, striving to become a full-fledged Magician...\n\nThe girl meets a boy.\n\nThis is the beginning of one young girl’s story — the tale of a Witch.\n\n(Source: Crunchyroll)",
+    "coverImageTopOffset": 0,
+    "titles": {
+     "en": "Witch on the Holy Night",
+     "en_jp": "Mahoutsukai no Yoru",
+     "ja_jp": "魔法使いの夜"
+    },
+    "canonicalTitle": "Mahoutsukai no Yoru",
+    "averageRating": null,
+    "userCount": 2014,
+    "favoritesCount": 2,
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-20",
+    "nextRelease": null,
+    "popularityRank": 4763,
+    "ratingRank": null,
+    "ageRating": "PG",
+    "ageRatingGuide": "Teens 13 or Older",
+    "subtype": "movie",
+    "status": "upcoming",
+    "tba": null,
+    "posterImage": {
+     "tiny": "https://media.kitsu.app/anime/45666/poster_image/tiny-d6da3260a30ecce0868c032c4c85dd30.jpeg",
+     "large": "https://media.kitsu.app/anime/45666/poster_image/large-1f64dd708a77907fe128e1250da92f02.jpeg",
+     "small": "https://media.kitsu.app/anime/45666/poster_image/small-f2350624da187aec40f95e2f36e81ae0.jpeg",
+     "medium": "https://media.kitsu.app/anime/45666/poster_image/medium-1650d16627dab637e14c6ec00e2f9287.jpeg",
+     "original": "https://media.kitsu.app/anime/45666/poster_image/f78f1b1bde575cd43ec996a9e0b1ebef.png"
+    },
+    "coverImage": {
+     "tiny": "https://media.kitsu.app/anime/45666/cover_image/tiny-0454764c855252f0c13c05d998e58479.jpeg",
+     "large": "https://media.kitsu.app/anime/45666/cover_image/large-417527d7685dba45bfa1cbe1551df19f.jpeg",
+     "small": "https://media.kitsu.app/anime/45666/cover_image/small-ea441b6b168177a109add88715ca0049.jpeg",
+     "original": "https://media.kitsu.app/anime/45666/cover_image/bb48900ace48847b275c5d9369680f74.jpg"
+    },
+    "episodeCount": 1,
+    "episodeLength": null,
+    "totalLength": 0,
+    "youtubeVideoId": "k1jyM2kSBzA",
+    "showType": "movie",
+    "nsfw": false
+   },
+   "relationships": {
+    "genres": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/genres",
+      "related": "https://kitsu.app/api/edge/anime/45666/genres"
+     }
+    },
+    "categories": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/categories",
+      "related": "https://kitsu.app/api/edge/anime/45666/categories"
+     }
+    },
+    "castings": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/castings",
+      "related": "https://kitsu.app/api/edge/anime/45666/castings"
+     }
+    },
+    "installments": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/installments",
+      "related": "https://kitsu.app/api/edge/anime/45666/installments"
+     }
+    },
+    "mappings": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/mappings",
+      "related": "https://kitsu.app/api/edge/anime/45666/mappings"
+     }
+    },
+    "reviews": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/reviews",
+      "related": "https://kitsu.app/api/edge/anime/45666/reviews"
+     }
+    },
+    "mediaRelationships": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/media-relationships",
+      "related": "https://kitsu.app/api/edge/anime/45666/media-relationships"
+     }
+    },
+    "characters": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/characters",
+      "related": "https://kitsu.app/api/edge/anime/45666/characters"
+     }
+    },
+    "staff": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/staff",
+      "related": "https://kitsu.app/api/edge/anime/45666/staff"
+     }
+    },
+    "productions": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/productions",
+      "related": "https://kitsu.app/api/edge/anime/45666/productions"
+     }
+    },
+    "quotes": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/quotes",
+      "related": "https://kitsu.app/api/edge/anime/45666/quotes"
+     }
+    },
+    "episodes": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/episodes",
+      "related": "https://kitsu.app/api/edge/anime/45666/episodes"
+     }
+    },
+    "streamingLinks": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/streaming-links",
+      "related": "https://kitsu.app/api/edge/anime/45666/streaming-links"
+     }
+    },
+    "animeProductions": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/anime-productions",
+      "related": "https://kitsu.app/api/edge/anime/45666/anime-productions"
+     }
+    },
+    "animeCharacters": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/anime-characters",
+      "related": "https://kitsu.app/api/edge/anime/45666/anime-characters"
+     }
+    },
+    "animeStaff": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/45666/relationships/anime-staff",
+      "related": "https://kitsu.app/api/edge/anime/45666/anime-staff"
+     }
+    }
+   }
+  },
+  {
+   "id": "47017",
+   "type": "anime",
+   "links": {
+    "self": "https://kitsu.app/api/edge/anime/47017"
+   },
+   "attributes": {
+    "createdAt": "2023-01-27T07:21:33.721Z",
+    "updatedAt": "2026-10-22T00:00:36.915Z",
+    "slug": "Made-in-Abyss-Mezameru-Shinpi",
+    "synopsis": "Sequel to Made in Abyss: Retsujitsu no Ougonkyou.",
+    "coverImageTopOffset": 0,
+    "titles": {
+     "en": "Made In Abyss: Awakening Mystery",
+     "en_jp": "Made in Abyss: Mezameru Shinpi",
+     "ja_jp": "メイドインアビス 目覚める神秘"
+    },
+    "canonicalTitle": "Made in Abyss: Mezameru Shinpi",
+    "averageRating": null,
+    "userCount": 1650,
+    "favoritesCount": 4,
+    "startDate": "2026-10-23",
+    "endDate": "2026-10-23",
+    "nextRelease": null,
+    "popularityRank": 5241,
+    "ratingRank": null,
+    "ageRating": "PG",
+    "ageRatingGuide": "Teens 13 or Older",
+    "subtype": "movie",
+    "status": "upcoming",
+    "tba": null,
+    "posterImage": {
+     "tiny": "https://media.kitsu.app/anime/47017/poster_image/tiny-0a425712f3926a3dbf83cd59c2ad88df.jpeg",
+     "large": "https://media.kitsu.app/anime/47017/poster_image/large-e82b48ac2bf47c53520d120eae09670a.jpeg",
+     "small": "https://media.kitsu.app/anime/47017/poster_image/small-9e0ee53705b517a848239e04aaebe09f.jpeg",
+     "medium": "https://media.kitsu.app/anime/47017/poster_image/medium-a79f58adccf3f183484435787d561745.jpeg",
+     "original": "https://media.kitsu.app/anime/47017/poster_image/778f419649aa88ea10285e5d291e2734.jpg"
+    },
+    "coverImage": {
+     "tiny": "https://media.kitsu.app/anime/47017/cover_image/tiny-c5a99510d277ea5263db15939852bacc.jpeg",
+     "large": "https://media.kitsu.app/anime/47017/cover_image/large-af5a6f3790736c2a8fc3e76c28c6fac6.jpeg",
+     "small": "https://media.kitsu.app/anime/47017/cover_image/small-e1fdd16bc566863e7f7b54a77b7f70d4.jpeg",
+     "original": "https://media.kitsu.app/anime/47017/cover_image/c3a275327a8756617f06b53acee2d134.jpg"
+    },
+    "episodeCount": 1,
+    "episodeLength": 71,
+    "totalLength": 0,
+    "youtubeVideoId": "ePOyy6Wlk4s",
+    "showType": "movie",
+    "nsfw": false
+   },
+   "relationships": {
+    "genres": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/genres",
+      "related": "https://kitsu.app/api/edge/anime/47017/genres"
+     }
+    },
+    "categories": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/categories",
+      "related": "https://kitsu.app/api/edge/anime/47017/categories"
+     }
+    },
+    "castings": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/castings",
+      "related": "https://kitsu.app/api/edge/anime/47017/castings"
+     }
+    },
+    "installments": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/installments",
+      "related": "https://kitsu.app/api/edge/anime/47017/installments"
+     }
+    },
+    "mappings": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/mappings",
+      "related": "https://kitsu.app/api/edge/anime/47017/mappings"
+     }
+    },
+    "reviews": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/reviews",
+      "related": "https://kitsu.app/api/edge/anime/47017/reviews"
+     }
+    },
+    "mediaRelationships": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/media-relationships",
+      "related": "https://kitsu.app/api/edge/anime/47017/media-relationships"
+     }
+    },
+    "characters": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/characters",
+      "related": "https://kitsu.app/api/edge/anime/47017/characters"
+     }
+    },
+    "staff": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/staff",
+      "related": "https://kitsu.app/api/edge/anime/47017/staff"
+     }
+    },
+    "productions": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/productions",
+      "related": "https://kitsu.app/api/edge/anime/47017/productions"
+     }
+    },
+    "quotes": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/quotes",
+      "related": "https://kitsu.app/api/edge/anime/47017/quotes"
+     }
+    },
+    "episodes": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/episodes",
+      "related": "https://kitsu.app/api/edge/anime/47017/episodes"
+     }
+    },
+    "streamingLinks": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/streaming-links",
+      "related": "https://kitsu.app/api/edge/anime/47017/streaming-links"
+     }
+    },
+    "animeProductions": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/anime-productions",
+      "related": "https://kitsu.app/api/edge/anime/47017/anime-productions"
+     }
+    },
+    "animeCharacters": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/anime-characters",
+      "related": "https://kitsu.app/api/edge/anime/47017/anime-characters"
+     }
+    },
+    "animeStaff": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/47017/relationships/anime-staff",
+      "related": "https://kitsu.app/api/edge/anime/47017/anime-staff"
+     }
+    }
+   }
+  },
+  {
+   "id": "50016",
+   "type": "anime",
+   "links": {
+    "self": "https://kitsu.app/api/edge/anime/50016"
+   },
+   "attributes": {
+    "createdAt": "2025-07-04T23:17:02.915Z",
+    "updatedAt": "2026-10-22T00:00:36.915Z",
+    "slug": "Cyberpunk-Edgerunners-II",
+    "synopsis": "Cyberpunk: Edgerunners 2 pulls you back into Night City, where lives become entangled to the extreme. Weak, a washed-up cyberpunk legend, is now forced to live without chrome as he searches for a sense of purpose in a world that’s passed him by. Meanwhile, the deadly nomad D sets out on a path to revenge that brings him close to corpo secrets never meant to be found. Across this ten-episode standalone series, uncover a story of family, obsession, legacy — and how your lens reflects the stories of the people around you.\n\nWhen the world is blinded by spectacle, what extremes do you have to go to make your story matter?\n\n(Source: Cyberpunk: Edgerunners 2 Official Site, Official Twitter)",
+    "coverImageTopOffset": 0,
+    "titles": {
+     "en": "CYBERPUNK: EDGERUNNERS II",
+     "en_jp": "Cyberpunk: Edgerunners II",
+     "ja_jp": "サイバーパンク: エッジランナーズ II"
+    },
+    "canonicalTitle": "Cyberpunk: Edgerunners II",
+    "averageRating": "81.49",
+    "userCount": 1270,
+    "favoritesCount": 7,
+    "startDate": "2026-10-20",
+    "endDate": "2026-10-20",
+    "nextRelease": null,
+    "popularityRank": 5912,
+    "ratingRank": 519,
+    "ageRating": "R",
+    "ageRatingGuide": null,
+    "subtype": "ONA",
+    "status": "finished",
+    "tba": null,
+    "posterImage": {
+     "tiny": "https://media.kitsu.app/anime/50016/poster_image/tiny-7c7a6b79dddc88a63a426db6027b866f.jpeg",
+     "large": "https://media.kitsu.app/anime/50016/poster_image/large-c00e4abb4e356c1259a940b3bcf99894.jpeg",
+     "small": "https://media.kitsu.app/anime/50016/poster_image/small-48462fdbe938672c96bfb7bb1fb1c18e.jpeg",
+     "medium": "https://media.kitsu.app/anime/50016/poster_image/medium-c0a8ca8ae29d71fdbc50c3b0115478af.jpeg",
+     "original": "https://media.kitsu.app/anime/50016/poster_image/b85693c770a1a0adf69cc9bb99decb45.jpg"
+    },
+    "coverImage": {
+     "tiny": "https://media.kitsu.app/anime/50016/cover_image/tiny-f291565f367ac3f37213186b5f6a2be7.jpeg",
+     "large": "https://media.kitsu.app/anime/50016/cover_image/large-433554a4f8866d864dd27601aa1ade9b.jpeg",
+     "small": "https://media.kitsu.app/anime/50016/cover_image/small-45799aa6a828e86e9c3f772770dfd25a.jpeg",
+     "original": "https://media.kitsu.app/anime/50016/cover_image/cdb0272e8d0922bcaf7d6fe1dd8d7f3d.png"
+    },
+    "episodeCount": 10,
+    "episodeLength": 28,
+    "totalLength": 0,
+    "youtubeVideoId": "urV5GzXcXsQ",
+    "showType": "ONA",
+    "nsfw": false
+   },
+   "relationships": {
+    "genres": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/genres",
+      "related": "https://kitsu.app/api/edge/anime/50016/genres"
+     }
+    },
+    "categories": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/categories",
+      "related": "https://kitsu.app/api/edge/anime/50016/categories"
+     }
+    },
+    "castings": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/castings",
+      "related": "https://kitsu.app/api/edge/anime/50016/castings"
+     }
+    },
+    "installments": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/installments",
+      "related": "https://kitsu.app/api/edge/anime/50016/installments"
+     }
+    },
+    "mappings": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/mappings",
+      "related": "https://kitsu.app/api/edge/anime/50016/mappings"
+     }
+    },
+    "reviews": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/reviews",
+      "related": "https://kitsu.app/api/edge/anime/50016/reviews"
+     }
+    },
+    "mediaRelationships": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/media-relationships",
+      "related": "https://kitsu.app/api/edge/anime/50016/media-relationships"
+     }
+    },
+    "characters": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/characters",
+      "related": "https://kitsu.app/api/edge/anime/50016/characters"
+     }
+    },
+    "staff": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/staff",
+      "related": "https://kitsu.app/api/edge/anime/50016/staff"
+     }
+    },
+    "productions": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/productions",
+      "related": "https://kitsu.app/api/edge/anime/50016/productions"
+     }
+    },
+    "quotes": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/quotes",
+      "related": "https://kitsu.app/api/edge/anime/50016/quotes"
+     }
+    },
+    "episodes": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/episodes",
+      "related": "https://kitsu.app/api/edge/anime/50016/episodes"
+     }
+    },
+    "streamingLinks": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/streaming-links",
+      "related": "https://kitsu.app/api/edge/anime/50016/streaming-links"
+     }
+    },
+    "animeProductions": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/anime-productions",
+      "related": "https://kitsu.app/api/edge/anime/50016/anime-productions"
+     }
+    },
+    "animeCharacters": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/anime-characters",
+      "related": "https://kitsu.app/api/edge/anime/50016/anime-characters"
+     }
+    },
+    "animeStaff": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50016/relationships/anime-staff",
+      "related": "https://kitsu.app/api/edge/anime/50016/anime-staff"
+     }
+    }
+   }
+  },
+  {
+   "id": "50021",
+   "type": "anime",
+   "links": {
+    "self": "https://kitsu.app/api/edge/anime/50021"
+   },
+   "attributes": {
+    "createdAt": "2025-07-05T09:46:34.713Z",
+    "updatedAt": "2026-10-22T00:00:36.915Z",
+    "slug": "Kusuriya-no-Hitorigoto-3rd-season",
+    "synopsis": "The third season of Kusuriya no Hitorigoto.\n\nIn the aftermath of the Shi Clan’s rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district.\n\nOne day, triggered by a breakfast served at the Verdigris House, Maomao senses an anomaly and begins investigating its true nature.\n\nMeanwhile, Jinshi, who has revealed his true identity as the Imperial brother and begun to face his heavy responsibilities, is deeply troubled by the final message left by Loulan: a warning of an impending \"disaster that will strike the nation.\"\n\nTo make matters worse, rumors of a mysterious shrine maiden who deceives the people begin to spread, casting a dark shadow over the country of Li once again.\n\nFrom the depths of the inner court to the city streets, and across foreign borders—the world grows wider, and the stakes even higher for Maomao and Jinshi.\n\n(Source: Crunchyroll News)",
+    "coverImageTopOffset": 0,
+    "titles": {
+     "en": "The Apothecary Diaries Season 3",
+     "en_jp": "Kusuriya no Hitorigoto 3rd Season",
+     "ja_jp": "薬屋のひとりごと 第3期"
+    },
+    "canonicalTitle": "Kusuriya no Hitorigoto 3rd Season",
+    "averageRating": "83.81",
+    "userCount": 1508,
+    "favoritesCount": 9,
+    "startDate": "2026-10-02",
+    "endDate": null,
+    "nextRelease": null,
+    "popularityRank": 5464,
+    "ratingRank": 64,
+    "ageRating": "PG",
+    "ageRatingGuide": "Teens 13 or older",
+    "subtype": "TV",
+    "status": "current",
+    "tba": null,
+    "posterImage": {
+     "original": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/50021/poster_image/86805fd5105a8da9c0d9c34e5d254992.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20261022%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20261022T001112Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=a46d5d9f97461afca5398401618f7563f5316f53a43e129761cde47c09fe34ea"
+    },
+    "coverImage": {
+     "tiny": "https://media.kitsu.app/anime/50021/cover_image/tiny-15d570acd7b4ff6c718f22a732223252.jpeg",
+     "large": "https://media.kitsu.app/anime/50021/cover_image/large-35aa7767333eaf17755008bc970451f0.jpeg",
+     "small": "https://media.kitsu.app/anime/50021/cover_image/small-adb701558831054a2aa6ba14a0911290.jpeg",
+     "original": "https://media.kitsu.app/anime/50021/cover_image/634edbefccbcf92b63d6a0d55d529f93.jpg"
+    },
+    "episodeCount": 12,
+    "episodeLength": 24,
+    "totalLength": null,
+    "youtubeVideoId": "YvNvvUeCztE",
+    "showType": "TV",
+    "nsfw": false
+   },
+   "relationships": {
+    "genres": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/genres",
+      "related": "https://kitsu.app/api/edge/anime/50021/genres"
+     }
+    },
+    "categories": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/categories",
+      "related": "https://kitsu.app/api/edge/anime/50021/categories"
+     }
+    },
+    "castings": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/castings",
+      "related": "https://kitsu.app/api/edge/anime/50021/castings"
+     }
+    },
+    "installments": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/installments",
+      "related": "https://kitsu.app/api/edge/anime/50021/installments"
+     }
+    },
+    "mappings": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/mappings",
+      "related": "https://kitsu.app/api/edge/anime/50021/mappings"
+     }
+    },
+    "reviews": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/reviews",
+      "related": "https://kitsu.app/api/edge/anime/50021/reviews"
+     }
+    },
+    "mediaRelationships": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/media-relationships",
+      "related": "https://kitsu.app/api/edge/anime/50021/media-relationships"
+     }
+    },
+    "characters": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/characters",
+      "related": "https://kitsu.app/api/edge/anime/50021/characters"
+     }
+    },
+    "staff": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/staff",
+      "related": "https://kitsu.app/api/edge/anime/50021/staff"
+     }
+    },
+    "productions": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/productions",
+      "related": "https://kitsu.app/api/edge/anime/50021/productions"
+     }
+    },
+    "quotes": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/quotes",
+      "related": "https://kitsu.app/api/edge/anime/50021/quotes"
+     }
+    },
+    "episodes": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/episodes",
+      "related": "https://kitsu.app/api/edge/anime/50021/episodes"
+     }
+    },
+    "streamingLinks": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/streaming-links",
+      "related": "https://kitsu.app/api/edge/anime/50021/streaming-links"
+     }
+    },
+    "animeProductions": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/anime-productions",
+      "related": "https://kitsu.app/api/edge/anime/50021/anime-productions"
+     }
+    },
+    "animeCharacters": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/anime-characters",
+      "related": "https://kitsu.app/api/edge/anime/50021/anime-characters"
+     }
+    },
+    "animeStaff": {
+     "links": {
+      "self": "https://kitsu.app/api/edge/anime/50021/relationships/anime-staff",
+      "related": "https://kitsu.app/api/edge/anime/50021/anime-staff"
+     }
+    }
+   }
+  }
+ ],
+ "meta": {
+  "count": 121
+ },
+ "links": {
+  "first": "https://kitsu.app/api/edge/anime?filter%5Bseason%5D=fall&filter%5BseasonYear%5D=2026&page%5Blimit%5D=4&page%5Boffset%5D=0&sort=popularityRank",
+  "next": "https://kitsu.app/api/edge/anime?filter%5Bseason%5D=fall&filter%5BseasonYear%5D=2026&page%5Blimit%5D=4&page%5Boffset%5D=4&sort=popularityRank",
+  "last": "https://kitsu.app/api/edge/anime?filter%5Bseason%5D=fall&filter%5BseasonYear%5D=2026&page%5Blimit%5D=4&page%5Boffset%5D=117&sort=popularityRank"
+ }
+}

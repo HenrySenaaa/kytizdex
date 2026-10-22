@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Catálogo dinâmico de animes com busca, filtros por gênero e detalhes, consumindo a API pública da Kitsu.">
+  <title>AnimeDex · Catálogo de Animes</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero__top">
+      <a class="logo" href="./">Anime<span>Dex</span></a>
+      <button type="button" class="menu-toggle" id="menu-toggle" aria-expanded="false" aria-controls="sidebar">☰ Gêneros</button>
+    </div>
+    <div class="hero__center">
+      <h1 class="hero__title">Encontre seu próximo anime</h1>
+      <form class="search" id="search-form" role="search">
+        <span class="search__icon" aria-hidden="true">⌕</span>
+        <input type="search" id="search" class="search__input" placeholder="Busque por título: Naruto, Frieren, One Piece…" autocomplete="off" aria-label="Buscar anime">
+        <button type="button" class="search__clear" id="clear-search" aria-label="Limpar busca" hidden>✕</button>
+        <kbd class="search__kbd" aria-hidden="true">/</kbd>
+      </form>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar" aria-label="Filtros">
+      <h2 class="sidebar__title">Gêneros</h2>
+      <ul class="categories" id="categories"></ul>
+    </aside>
+
+    <main class="content">
+      <div class="toolbar">
+        <div>
+          <h2 class="toolbar__title" id="results-title">🔥 Destaques da temporada</h2>
+          <p class="toolbar__meta" id="results-meta"></p>
+        </div>
+        <div class="toolbar__filters">
+          <label class="select">
+            <span>Formato</span>
+            <select id="subtype">
+              <option value="">Todos</option>
+              <option value="TV">Série</option>
+              <option value="movie">Filme</option>
+              <option value="OVA">OVA</option>
+              <option value="ONA">ONA</option>
+              <option value="special">Especial</option>
+            </select>
+          </label>
+          <label class="select" id="sort-field">
+            <span>Ordenar</span>
+            <select id="sort">
+              <option value="popular">Popularidade</option>
+              <option value="rating">Maior nota</option>
+              <option value="recent">Mais recentes</option>
+            </select>
+          </label>
+        </div>
+      </div>
+
+      <div class="grid" id="grid" aria-live="polite" aria-busy="true"></div>
+      <div id="status"></div>
+      <button type="button" class="btn btn--more" id="load-more" hidden>Carregar mais</button>
+    </main>
+  </div>
+
+  <footer class="footer">
+    Dados fornecidos pela <a href="https://kitsu.app" target="_blank" rel="noopener noreferrer">API pública da Kitsu</a>.
+  </footer>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" hidden>
+    <div class="modal__overlay" data-close></div>
+    <div class="modal__dialog">
+      <button type="button" class="modal__close" data-close aria-label="Fechar detalhes">✕</button>
+      <div class="modal__body" id="modal-body"></div>
+    </div>
+  </div>
+
+  <script src="js/logic.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

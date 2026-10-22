@@ -1,0 +1,13 @@
+{
+  "name": "catalogo-anime",
+  "version": "1.0.0",
+  "description": "Catálogo dinâmico de animes consumindo a API pública da Kitsu, com busca, filtros e modal de detalhes.",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jsdom": "^30.1.3"
+  }
+}
