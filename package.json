@@ -1,5 +1,5 @@
 {
-  "name": "catalogo-anime",
+  "name": "kytizdex",
   "version": "1.0.0",
   "description": "Catálogo dinâmico de animes consumindo a API pública da Kitsu, com busca, filtros e modal de detalhes.",
   "private": true,
